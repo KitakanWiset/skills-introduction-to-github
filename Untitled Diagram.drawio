@@ -40,6 +40,18 @@
         <mxCell id="ul0n_eh6_xzhWPqqEAVD-13" value="Sales Co เปิด PO forecast" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="147.5" y="570" width="165" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ul0n_eh6_xzhWPqqEAVD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ul0n_eh6_xzhWPqqEAVD-15" target="ul0n_eh6_xzhWPqqEAVD-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="715" />
+              <mxPoint x="440" y="1020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ul0n_eh6_xzhWPqqEAVD-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ul0n_eh6_xzhWPqqEAVD-15" target="ul0n_eh6_xzhWPqqEAVD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ul0n_eh6_xzhWPqqEAVD-15" value="เปิดก่อนฤดูกาลของ 3-6 เดือน" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="670" width="190" height="90" as="geometry" />
         </mxCell>
@@ -48,6 +60,21 @@
         </mxCell>
         <mxCell id="ul0n_eh6_xzhWPqqEAVD-16" value="การเปิด PO forecast" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ul0n_eh6_xzhWPqqEAVD-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="1000" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ul0n_eh6_xzhWPqqEAVD-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ul0n_eh6_xzhWPqqEAVD-24" target="ul0n_eh6_xzhWPqqEAVD-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ul0n_eh6_xzhWPqqEAVD-24" value="Sales ตรวจสอบและเซ็นต์รับรอง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="147.5" y="780" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ul0n_eh6_xzhWPqqEAVD-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ul0n_eh6_xzhWPqqEAVD-27" target="ul0n_eh6_xzhWPqqEAVD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ul0n_eh6_xzhWPqqEAVD-27" value="Sales Manager ตรวจสอบและเซ็นต์รับรอง" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="147.5" y="870" width="165" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
